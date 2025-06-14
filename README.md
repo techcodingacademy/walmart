@@ -23,3 +23,4 @@ https://gist.githubusercontent.com/peymano-wmt/32dcb892b06648910ddd40406e37fdab/
 - Handles **no internet connection** and **API failure** gracefully with user-friendly error messages
 - Preserves data on screen rotation (configuration changes)
 - Follows **MVVM architecture** for separation of concerns and lifecycle-aware components
+<img width="551" alt="Image" src="https://github.com/user-attachments/assets/9db40aa9-152b-4a16-8f57-ee6d136bd72a" />
