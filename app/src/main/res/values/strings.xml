@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Walmart</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="error_network">Please check your internet connection.</string>
+    <string name="error_api">API error occurred. Please try again later.</string>
+    <string name="error_unknown">An unknown error occurred.</string>
+</resources>
